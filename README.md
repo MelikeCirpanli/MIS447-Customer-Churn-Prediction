@@ -40,16 +40,17 @@ The project uses the **Telco Customer Churn** dataset from Kaggle.
 ├── README.md            # Project documentation
 └── WA_Fn-UseC...csv     # Dataset file
 
-⚙️ How to Run Locally
+
+##⚙️ How to Run Locally
 If you want to run this project on your own machine, follow these steps:
 
-Clone the repository:
+##Clone the repository:
 git clone [https://github.com/MelikeCirpanli/MIS447-Customer-Churn-Prediction.git](https://github.com/MelikeCirpanli/MIS447-Customer-Churn-Prediction.git)
 
-Install the required libraries:
+##Install the required libraries:
 pip install -r requirements.txt
 
-Run the Streamlit app:
+##Run the Streamlit app:
 streamlit run app.py
 
-Developed by: Melike Çırpanlı Student ID: 210106005 Course: MIS 447 Machine Learning
+##Developed by: Melike Çırpanlı Student ID: 210106005 Course: MIS 447 Machine Learning
